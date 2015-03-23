@@ -29,7 +29,7 @@
 " and to be eye comfortable as well.
 "
 " --------------------------------------------------------------------------
-" INSTALLATION
+" INSTALLATIONd
 " --------------------------------------------------------------------------
 " Copy kolor.vim to ~/.vim/colors (on Win <your-vim-dir>\vimfiles\colors).
 " Then add the line "colorscheme kolor" in your vimrc file, and restart Vim.
